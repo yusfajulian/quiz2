@@ -1,6 +1,6 @@
 # React
 
-**React** adalah library JavaScript untuk membangun UI (_user inte ace_).  
+**React** adalah _library_ JavaScript untuk membangun UI (_user inte ace_).  
 
 Keunggulan React:  
 - Deklaratif, sehingga kode lebih mudah dibaca dan dipahami
@@ -17,5 +17,5 @@ Contoh:
 
 ````JSX
 const element = <h1>Hello, world!</h1>;
-
+````
 Sumber://reactjs.org/
